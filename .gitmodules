@@ -1,4 +1,5 @@
-[submodule "cdp_tests"]
-    path = cdp_tests
-    url = https://gitee.com/hitsz-cslab/cdp-tests.git
-    branch = "miniLA"
+
+[submodule "cdp-tests"]
+	path = cdp-tests
+	url = https://gitee.com/hitsz-cslab/cdp-tests.git
+	branch = miniLA
