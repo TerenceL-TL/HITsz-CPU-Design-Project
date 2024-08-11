@@ -1,4 +1,6 @@
-**HITsz-CPU-Design-Project**
+# HITsz-CPU-Design-Project
+
+---
 
 This is a CPU Design Course offered by HITsz in 2024 Summer.
 
@@ -18,3 +20,5 @@ This is a CPU Design Course offered by HITsz in 2024 Summer.
 3. cd ROOT_DIR/cdp-tests/
 4. make
 5. python3 run_all_tests.py
+
+*Instructions can be found in https://comp2012.pages.dev/*
