@@ -1,3 +1,4 @@
 [submodule "cdp_tests"]
     path = cdp_tests
     url = https://gitee.com/hitsz-cslab/cdp-tests.git
+    branch = "miniLA"
