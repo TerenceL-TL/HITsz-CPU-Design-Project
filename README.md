@@ -2,7 +2,7 @@
 
 ---
 
-This is a CPU Design Course offered by HITsz in 2024 Summer.
+This is a CPU Design Course offered by HITsz in 2024 Summer. I achieved a final score 100/100 in this course. 
 
 **NOTES**
 
